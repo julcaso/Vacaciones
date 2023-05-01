@@ -12,6 +12,6 @@ package com.vacaciones;
 public class Vacaciones {
 
     public static void main(String[] args) {
-        System.out.println("Probando!");
+        System.out.println("Probando nueva version del archivo!");
     }
 }
