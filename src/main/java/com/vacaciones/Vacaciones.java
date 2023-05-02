@@ -14,6 +14,8 @@ package com.vacaciones;
 /*Nicolax Luciano Blanco 100589315 */
 /*Ricardo Jose AD9639 */
 /*Luis Miguel Diaz Peña 100442118*/
+/*Radhames A. Gonzalez 100446113*/
+
 public class Vacaciones {
 
     public static void main(String[] args) {
