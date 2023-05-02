@@ -12,6 +12,7 @@ package com.vacaciones;
 
 /*César Steven García 100368726 */
 /*Nicolax Luciano Blanco 100589315 */
+/*Ricardo Jose AD9639 */
 public class Vacaciones {
 
     public static void main(String[] args) {
