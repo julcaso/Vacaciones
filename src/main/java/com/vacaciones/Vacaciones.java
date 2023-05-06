@@ -11,7 +11,7 @@ package com.vacaciones;
  */
 /*testing git /Ricardo Jose
 /*César Steven García 100368726 */ /*Probando commit*/
-/*Nicolax Luciano Blanco 100589315 */
+/*Nicolax Luciano Blanco 100589315 Probando commit*/
 /*Ricardo Jose AD9639 */
 /*Luis Miguel Diaz Peña 100442118*/
 /*Radhames A. Gonzalez 100446113*/
