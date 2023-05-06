@@ -11,12 +11,13 @@ package com.vacaciones;
  */
 /*testing git /Ricardo Jose
 /*César Steven García 100368726 */ /*Probando commit*/
-/*Nicolax Luciano Blanco 100589315 */
+/*Nicolax Luciano Blanco 100589315 Probando commit*/
 /*Ricardo Jose AD9639 */
 /*Luis Miguel Diaz Peña 100442118*/
 /*Radhames A. Gonzalez 100446113*/
 //Felix A. Santana Rondon 100535769//
 /*Julian Eduardo Gomez 100471046*/
+/*Steven Nuñez Aquino 100531173*/
 
 public class Vacaciones {
 
