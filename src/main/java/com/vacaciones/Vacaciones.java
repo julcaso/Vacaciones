@@ -18,6 +18,7 @@ package com.vacaciones;
 //Felix A. Santana Rondon 100535769//
 /*Julian Eduardo Gomez 100471046*/
 /*Steven Nuñez Aquino 100531173*/
+/*Henfy Magallanes 100474214*/
 
 public class Vacaciones {
 
