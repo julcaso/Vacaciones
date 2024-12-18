@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="O5bZtHDiYt0VUV9_KGez">
+    <mxGraphModel dx="957" dy="1546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0qf9RdkHLNxeN3xlOcfp-1" value="Fuente Sostenida de Generación de Ingresos Pasivos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0qf9RdkHLNxeN3xlOcfp-2" value="Inversión en Renta Variable" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0qf9RdkHLNxeN3xlOcfp-3" value="Metas de Vida / Sostenimiento" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="629" y="-680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0qf9RdkHLNxeN3xlOcfp-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0qf9RdkHLNxeN3xlOcfp-1" target="0qf9RdkHLNxeN3xlOcfp-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="-570" as="sourcePoint" />
+            <mxPoint x="450" y="-620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0qf9RdkHLNxeN3xlOcfp-5" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Ingresos pasivos&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0qf9RdkHLNxeN3xlOcfp-4">
+          <mxGeometry x="0.1" relative="1" as="geometry">
+            <mxPoint x="-6" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0qf9RdkHLNxeN3xlOcfp-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0qf9RdkHLNxeN3xlOcfp-2" target="0qf9RdkHLNxeN3xlOcfp-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="-635" />
+              <mxPoint x="540" y="-550" />
+              <mxPoint x="420" y="-550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0qf9RdkHLNxeN3xlOcfp-11" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Rentabilidad compuesta reinvertida&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" vertex="1" connectable="0" parent="0qf9RdkHLNxeN3xlOcfp-10">
+          <mxGeometry x="-0.5295" relative="1" as="geometry">
+            <mxPoint x="-60" y="78" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0qf9RdkHLNxeN3xlOcfp-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0qf9RdkHLNxeN3xlOcfp-2" target="0qf9RdkHLNxeN3xlOcfp-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="-600" as="sourcePoint" />
+            <mxPoint x="440" y="-650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0qf9RdkHLNxeN3xlOcfp-13" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;- Creditos de inversión (materializados)&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;- C.Calls&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;- CS.Puts&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Porción de dividendos consumibles&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0qf9RdkHLNxeN3xlOcfp-12">
+          <mxGeometry x="0.0018" relative="1" as="geometry">
+            <mxPoint x="-2" y="-37" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
